@@ -4,11 +4,11 @@ Describa cambio
 ### ¿Contexto?
 explicar
 
-### ¿tickets?
+### ¿Tickets?
 
 los hay 
 
-### chetlist
+### checklist
 
 - [ ] bien
 - [ ] no tanto
